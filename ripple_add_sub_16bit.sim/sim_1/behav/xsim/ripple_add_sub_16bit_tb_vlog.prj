@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../ripple_add_sub_16bit.srcs/sources_1/new/ripple_add_sub_16bit.v" \
+"../../../../ripple_add_sub_16bit.srcs/sim_1/new/ripple_add_sub_16bit_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
