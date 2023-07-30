@@ -1,4 +1,4 @@
-# 16-bit-Ripple-Carry-Adder-Cum-Subtractor
+# 16-bit-Ripple-Carry-Adder-Cum-Subtractor-Verilog
 Reconfigurable 16-bit Ripple Carry Adder Cum Subtractor in Verilog: Design and Implementation.    
 
 This project implements a 16-bit reconfigurable ripple carry adder cum subtractor using Verilog hardware description language (HDL). The design and simulation were carried out in Xilinx Vivado 2021.2.
